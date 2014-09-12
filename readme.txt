@@ -13,12 +13,12 @@ Wordpress simple and nice tabber widget
 
 This plugin show 3 tabs that "Recent", "Popular" and "Comment".
 
-*  Every tab show 10 posts.
-*  You can change tab title.
-*  "Recent" Tab show 10 recent posts of your blog posts.
-*  "Popular" Tab show 10 post last 30 days of your blog posts.
-*  "Comment" Tab show 10 posts that have most comments.
-*  Simple and nice design tab massing your theme.
+Every tab show 10 posts.
+You can change tab title.
+"Recent" Tab show 10 recent posts of your blog posts.
+"Popular" Tab show 10 post last 30 days of your blog posts.
+"Comment" Tab show 10 posts that have most comments.
+Simple and nice design tab massing your theme.
 
 == Features ==
 *  Every tab show 10 posts.
