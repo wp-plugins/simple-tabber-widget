@@ -1,9 +1,9 @@
 ﻿<?php
 /* 
-Plugin Name: Tabber Widget
+Plugin Name: Simple Tabber Widget
 Plugin URI: http://wordpress.org/plugins/simple-tabber-widget/
 Description: Wordpress simple and nice tabber widget
-Version: 0.1
+Version: 1.0
 Author: Dipto Paul
 Author URI: http://webprojectbd.blogspot.com
 License: GPLv2 or later
