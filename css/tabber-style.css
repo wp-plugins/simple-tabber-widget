@@ -1,0 +1,54 @@
+.simple_tabber_plugin{
+	margin-bottom:20px;
+}
+.simple_tabber_plugin ul.simple_tabber_menu{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.simple_tabber_plugin ul.simple_tabber_menu li.active{
+	background: #000;
+}
+.simple_tabber_plugin ul.simple_tabber_menu li{
+	background: #222b46;
+	border-right: 1px solid #ddd;
+	float: left;
+	padding: 15px 10px;
+}
+.simple_tabber_plugin ul.simple_tabber_menu li:last-child{
+	border-right: 0px solid #ddd;
+}
+.simple_tabber_plugin ul.simple_tabber_menu li a,
+.simple_tabber_plugin ul.simple_tabber_menu li a:focus{
+	display:block;
+	color:#fff;
+	text-decoration:none;
+	outline:0
+}
+
+.simple_tabber_plugin .tabber_content .single_tabber_content ul{
+	background: #d5ded9;
+	list-style: none;
+	margin-top: 5px;
+	padding: 0;
+}
+.simple_tabber_plugin .tabber_content .single_tabber_content ul li.tabber_list_item{
+	padding:10px;
+	border-bottom: 1px solid #fff;
+}
+.simple_tabber_plugin .tabber_content .single_tabber_content ul li.tabber_list_item:last-child{
+	border-bottom: 0px solid #fff;
+}
+.simple_tabber_plugin .tabber_content .single_tabber_content ul li.tabber_list_item a,
+.simple_tabber_plugin .tabber_content .single_tabber_content ul li.tabber_list_item a:focus{
+	color: #222b46;
+	display: block;
+	font-size: 16px;
+	line-height: 22px;
+	outline: 0 none;
+	text-decoration: none;
+}
+.simple_tabber_plugin .tabber_content .single_tabber_content ul li.tabber_list_item a:hover{
+	color:#000;
+}
