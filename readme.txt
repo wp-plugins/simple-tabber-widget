@@ -13,34 +13,28 @@ Wordpress simple and nice tabber widget
 
 This plugin show 3 tabs that "Recent", "Popular" and "Comment".
 
-Every tab show 10 posts.
-You can change tab title.
-"Recent" Tab show 10 recent posts of your blog posts.
-"Popular" Tab show 10 post last 30 days of your blog posts.
-"Comment" Tab show 10 posts that have most comments.
-Simple and nice design tab massing your theme.
-
 == Features ==
-*  Every tab show 10 posts.
+*  Every tab show 6 posts.
 *  You can change tab title.
-*  "Recent" Tab show 10 recent posts of your blog posts.
-*  "Popular" Tab show 10 post last 30 days of your blog posts.
-*  "Comment" Tab show 10 posts that have most comments.
+*  "Recent" Tab show 6 recent posts of your blog posts.
+*  "Popular" Tab show 6 post last 30 days of your blog posts.
+*  "Comment" Tab show 6 posts that have most comments.
 *  Simple and nice design tab massing your theme.
 	
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+Upload the "Tabber Widget" plugin to your blog, Activate it, Then Drag and Drop "Tabber Widget" on youe website sidebar.
 
-e.g.
+1, 2, 3: You're done!
 
-1. Upload "simple-tabber-widget" to the "/wp-content/plugins/" directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to Appearance >> Widget And Drag and Drop the "Tabber Widget" on your sidebar.
+== Screenshots ==
 
+1. Simple Tabber Widget on your site.
+2. Simple Tabber Widget on wordpress widget page.
 
-== Version ==
+== Changelog ==
 
-This Plugin is now 1.0 version and It's work Wordpress 4.0 and older version.
+= 2.0 =
+* Improve Style, plugin function and more.
 
