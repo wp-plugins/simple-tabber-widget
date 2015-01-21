@@ -1,6 +1,6 @@
 === Tabber Widget ===
 Tags: tab widget, simple tab post, popular posts, popular comments, recent posts
-Contributors: Dipto
+Contributors: dipto99
 Stable tag: bdtabber
 Requires at least: 3.0.1
 Tested up to: 3.4
